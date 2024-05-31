@@ -84,7 +84,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any questions or support, please open an issue on GitHub or contact us at support@flqmedevmc.com.
+For any questions or support, please open an issue on GitHub or contact us at flameclient1.0@gmail.com.
 
 ---
 
