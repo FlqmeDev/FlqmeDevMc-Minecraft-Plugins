@@ -1,0 +1,4 @@
+name: CustomEvents
+version: 1.0
+main: CustomEvents
+api-version: 1.13
