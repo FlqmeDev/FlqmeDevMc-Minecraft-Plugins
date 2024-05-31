@@ -1,0 +1,12 @@
+name: PlayerEconomy
+version: 1.0
+main: PlayerEconomy
+api-version: 1.13
+commands:
+  balance:
+    description: Check your balance
+  earn:
+    description: Earn 100 coins
+  pay:
+    description: Pay a specified amount to another player
+    usage: /pay <player> <amount>
