@@ -90,5 +90,3 @@ For any questions or support, please open an issue on GitHub or contact us at su
 
 Thank you for using FlqmeDevMC Plugins! We hope these plugins enhance your Minecraft server and provide an enjoyable experience for your players.
 ```
-
-Feel free to replace `https://github.com/YourUsername/FlqmeDevMC-Plugins.git` with your actual GitHub repository URL and customize any other specific details as needed.
